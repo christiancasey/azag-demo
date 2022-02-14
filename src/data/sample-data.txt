@@ -1,0 +1,86 @@
+
+
+  lemmata: Egyptian
+----------------------------------------------------------------------------------------------------------------------------
+  lemma: is͗ w
+  literal translation: sheep
+  part of speach: noun
+  meanings:
+  1. Aries (zodiacal sign)
+  2. Ram, Sheep
+  variant spellings:
+  1.1. sr (O34+D21+F27); tpy (D1)
+  quotation 1:
+  transliteration: ib͗ d-2 pr.t pꜣ is͗ w
+  translation: Month 2 of Peret (Mecheir): Aries
+  source: O.Strasb. 521.7
+  type/genre: Astrological/Astronomical list
+  provenance & date: Egypt; Roman
+  publication: O.Neugebauer, “Demotic Horoscopes”, JAOS 63 (1943), 121–121 (115–127).
+  1.2.
+  quotation 2:
+  transliteration: pꜣ rꜥ-ḫꜥ tꜣ ỉḫ y(.t) | rꜥ-ḥtp pꜣ ỉsw
+  translation: Ascendant: Libra; Descendant: Aries
+  source: O.Neugebauer 3.4–5
+  type/genre: Horoscope
+  provenance & date: Thebes; after AD 18
+  publication: O.Neugebauer, “Demotic Horoscopes”, JAOS 63 (1943), 117–119 (115–127).
+
+
+
+  lemmata: Greek
+  ------------------------------------------------------------------------------------------------
+  lemma: Κριός (krios)
+  literal translation: ram
+  part of speech: noun
+  meanings:
+  1. Aries (zodiac sign)
+  2. Aries (constellation)
+  variant spellings:
+  1.1.
+  quotation 1:
+  transliteration:
+  ζωϊδίων δέ ἑ κύκλον ἐπίκλησιν καλέουσιν 
+  τῷ ἔνι Καρκίνος ἐστί, Λέων ἐπὶ τῷ, μετὰ δ’ αὐτὸν
+  Παρθένος  αἱ δ’ ἐπί οἱ Χηλαὶ καὶ Σκορπίος αὐτὸς
+  Τοξευτής τε καὶ Αἰγόκερως, ἐπὶ δ’ Αἰγοκερῆϊ
+  Ὑδροχόος  δύο δ’ αὐτῷ ἔπ’ Ἰχθύες ἀστερόεντες,
+  τοὺς δὲ μέτα Κριός, Ταῦρος δ’ ἐπὶ τῷ Δίδυμοί τε.
+  ἐν τοῖς ἠέλιος φέρεται δυοκαίδεκα πᾶσιν
+  πάντ’ ἐνιαυτὸν ἄγων, καί οἱ περὶ τοῦτον ἰόντι
+  κύκλον ἀέξονται πᾶσαι ἐπικάρπιοι ὧραι.
+  translation: They call it (sc. the ecliptic) by the name 'Circle of the figurines' (zōdiōn kyklos, i.e. the
+  zodiac): in it is Cancer, after that there is Leo, after that is Virgo, and after that, the Claws and Scorpio
+  itself, Sagittarius and Capricorn, and after Capricorn, Aquarius, and after it, the two stary Fish (i.e.
+  Pisces), and after them Aries, and after it Taurus and Gemini. In all twelve of them the Sun moves
+  along as it passes each year, and as it goes around this circle, all the seasons wax fruitful.
+  source: Aratus 543–552
+  type/genre: didactic poem on astronomy
+  provenance & date: Pella, ca. 276–274 BCE
+  publication:
+  quotation 2:
+  transliteration:
+  τῷ δὲ μηνὶ τῷ Ξανθικῷ, ὃς Νισὰν παρ’ ἡμῖν καλεῖται καὶ τοῦ ἔτους ἐστὶν ἀρχή, τεσσαρεσκαιδεκάτῃ
+  κατὰ σελήνην ἐν κριῷ τοῦ ἡλίου καθεστῶτος  τούτῳ γὰρ τῷ μηνὶ τῆς ὑπ’ Αἰγυπτίους δουλείας
+  ἠλευθερώθημεν
+  translation: "(The sacrifice of pascha is celebrated) in the month of Xanthikos, which among us (sc.
+  Jews) is called Nisan and is the beginning of the year, on the fourteenth (of the month) according to the
+  Moon, when the Sun is in Aries—for in this month we were liberated from servitude to Egyptians"
+  source: Josephus, Antiquities of the Jews 3.10.5 (248)
+  type/genre: history
+  provenance & date: Rome, 93/94 CE
+  publication:
+  quotation 3:
+  transliteration:
+  Κριός ἐστιν οἶκος Ἄρεως, ζῴδιον ἀρρενικόν, τροπικόν, χερσαῖον, ἡγεμονικόν, πυρῶδες, ἐλεύθερον,
+  ἀνωφερές, ἡμίφωνον, ἀγαθόν, εὐμετάβολον, διοικητικόν, δημόσιον, πολιτικόν, ὀλιγόγονον, λατρῶδες,
+  κόσμου μεσουράνημα καὶ δόξης αἴτιον, δίχρωμον ἐπεὶ ὁ Ἥλιος καὶ ἡ Σελήνη ποιοῦσιν ἀλφούς,
+  λειχῆνας  ἔστι δὲ καὶ ἀσύνδετον, ἐκλειπτικόν
+  translation: "Aries is a house of Ares, a masculine zodiac-sign, tropic, of dry-land, hegemonic, of fire,
+  of free men, ascending, semi-voiced, good, variable, controlling, of the (common) people, political, of
+  low fertility, servile, the midheaven of the cosmos and a source of glory, two-colored when Sun and
+  Moon produce spots (and) cankers; it is also non-conjunctive, ecliptic"
+  source: Vettius Valens 1.2.1
+  type/genre: astrological treatise
+  provenance & date: Antioch, ca. 152–162 CE
+  publication:
