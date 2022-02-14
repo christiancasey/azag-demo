@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/azag-demo/static/css/main.e6c13ad2.css",
-    "main.js": "/azag-demo/static/js/main.7a19bee7.js",
+    "main.css": "/azag-demo/static/css/main.cece5266.css",
+    "main.js": "/azag-demo/static/js/main.236eeb47.js",
     "index.html": "/azag-demo/index.html",
-    "main.e6c13ad2.css.map": "/azag-demo/static/css/main.e6c13ad2.css.map",
-    "main.7a19bee7.js.map": "/azag-demo/static/js/main.7a19bee7.js.map"
+    "main.cece5266.css.map": "/azag-demo/static/css/main.cece5266.css.map",
+    "main.236eeb47.js.map": "/azag-demo/static/js/main.236eeb47.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.7a19bee7.js"
+    "static/css/main.cece5266.css",
+    "static/js/main.236eeb47.js"
   ]
 }
